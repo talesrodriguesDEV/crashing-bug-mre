@@ -1,0 +1,7 @@
+{
+  "name": "crashing-bug-mre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
